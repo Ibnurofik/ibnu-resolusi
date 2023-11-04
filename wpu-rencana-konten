@@ -1,10 +1,12 @@
 Rencana Konten WPU
 - Javascript
- - ES6
+  - ES6
   - Framework
-    ^Angular
-    ^ React
+   ^ Vue
+   ^ React
+- Fundamental Str Data
 - PHP
-  ^Laravel
+  ^ Laravel
 - Interview
 - Vlog
+- Phyton
